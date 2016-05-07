@@ -4,3 +4,4 @@
 4. This is a better way of doing this
 5. This was added on github
 6. This is a new line added with nano
+7. New test
